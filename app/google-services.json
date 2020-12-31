@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790953586994",
+    "project_id": "kamservices-91315",
+    "storage_bucket": "kamservices-91315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790953586994:android:c959e724cc88e27f27672b",
+        "android_client_info": {
+          "package_name": "com.brainybrains.kamservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790953586994-u8co1pv6g34aupebf7njmvakjadi14dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brainybrains.kamservices",
+            "certificate_hash": "833dd1169161495e28d5d2d184189d5566319922"
+          }
+        },
+        {
+          "client_id": "790953586994-7absca6pst2ucepp7famn0109cq6tpp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCe4N0XcsxFAEVTBczgn9A0XIswfXxqG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790953586994-7absca6pst2ucepp7famn0109cq6tpp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
